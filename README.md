@@ -1,7 +1,11 @@
 # ricky.github.io
 
 
+## 自我介紹
+銘傳大學學生
 
+## 興趣
+球類運動
 ```c
 #include <stdio.h>
 int main()
@@ -10,12 +14,6 @@ int main()
    return 0;
    
 }
-
-## 自我介紹
-銘傳大學學生
-
-## 興趣
-球類運動
 
 ## 好玩的圖
 [有一個網址](ricky.github.io)
