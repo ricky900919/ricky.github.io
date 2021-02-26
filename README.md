@@ -1,6 +1,15 @@
 # ricky.github.io
 
-你好
+
+
+```c
+#include <stdio.h>
+int main()
+{
+   printf("Hello World)
+   return 0;
+   
+}
 
 ## 自我介紹
 銘傳大學學生
